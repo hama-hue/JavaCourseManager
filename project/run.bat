@@ -1,0 +1,6 @@
+@echo off
+echo Compiling CCRM...
+javac -d . src/*.java
+echo Running CCRM...
+java Main
+pause
