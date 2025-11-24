@@ -61,7 +61,7 @@ You must have the following installed:
 Open your terminal or command prompt and run the following command to download the source code:
 
 ```bash
-git clone [https://github.com/hama-hue/JavaCourseManager.git](https://github.com/hama-hue/JavaCourseManager.git)
+git clone https://github.com/hama-hue/JavaCourseManager.git
 ```
 ### 2. Navigate to the Project Source Directory
 
